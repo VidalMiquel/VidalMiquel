@@ -1,7 +1,7 @@
-# Hello, I'm Vidal Miquel 👋
+# Hello, I'm Miquel Vidal 👋
 
 ## 👩‍💻 About Me
-I am a dedicated backend developer with expertise in application management and development. I have a strong passion for learning new technologies and continuously improving my skills.
+"I am a dedicated backend developer specializing in application management and development. With a strong passion for learning new technologies, I am committed to continuously enhancing my skills. I believe in the power of collaboration and knowledge sharing, so let's connect and exchange insights!
 
 ## 📊 GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidalMiquel&show_icons=true&theme=radical)
@@ -23,3 +23,4 @@ This work explores the hypothesis of whether complex networks are a suitable too
 - [LinkedIn](https://www.linkedin.com/in/mvc4/)
 - [My CV](https://github.com/VidalMiquel/VidalMiquel/blob/main/cvMiquelVidal.pdf)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=dark&show_icons=true)
