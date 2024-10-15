@@ -21,3 +21,5 @@ This work explores the hypothesis of whether complex networks are a suitable too
 ## 📫 Contact Me
 - [Email](mailto:miquelvidalcortes@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mvc4/)
+- [My CV](https://github.com/VidalMiquel/VidalMiquel/blob/main/cvMiquelVidal.pdf)
+
