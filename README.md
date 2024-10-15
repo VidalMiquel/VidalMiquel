@@ -4,9 +4,9 @@
 "I am a dedicated backend developer specializing in application management and development. With a strong passion for learning new technologies, I am committed to continuously enhancing my skills. I believe in the power of collaboration and knowledge sharing, so let's connect and exchange insights!
 
 ## 📊 GitHub Statistics
-<a href="https://github.com/VidalMiquel/github-readme-stats">
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true" />
-</a>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true)
 
