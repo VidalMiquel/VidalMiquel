@@ -8,7 +8,7 @@
 
 ## 📈 Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=compact&theme=vue)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=donut)](https://github.com/VidalMiquel/github-readme-stats)
 ## 🛠️ Tools and Technologies
 - **Languages**: Python, Java, C, SQL, Ada, HTML, JavaScript
 - **Frameworks**: SpringBoot, Angular
