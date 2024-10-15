@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Statistics
 <a href="https://github.com/VidalMiquel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true)
