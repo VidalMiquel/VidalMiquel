@@ -7,8 +7,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true)
 
 ## 📈 Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=compact&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=donut)](https://github.com/VidalMiquel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=donut&theme=vue)](https://github.com/VidalMiquel/github-readme-stats)
+
 ## 🛠️ Tools and Technologies
 - **Languages**: Python, Java, C, SQL, Ada, HTML, JavaScript
 - **Frameworks**: SpringBoot, Angular
