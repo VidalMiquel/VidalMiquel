@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true)
 
 ## 📈 Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=compact&theme=vue)
 
 ## 🛠️ Tools and Technologies
 - **Languages**: Python, Java, C, SQL, Ada, HTML, JavaScript
