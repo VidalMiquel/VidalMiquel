@@ -1,7 +1,7 @@
 # Hello, I'm Vidal Miquel 👋
 
 ## 👩‍💻 About Me
-"I am a dedicated backend developer with expertise in application management and development. I have a strong passion for learning new technologies and continuously improving my skills.
+I am a dedicated backend developer with expertise in application management and development. I have a strong passion for learning new technologies and continuously improving my skills.
 
 ## 📊 GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidalMiquel&show_icons=true&theme=radical)
