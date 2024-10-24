@@ -37,7 +37,7 @@
 
 <h2 style="font-size: 1.5em; color: #555;">🌱 Featured Projects</h2>
 <h3 style="color: #333;">
-    <a href="https://github.com/VidalMiquel/Final-Thesis-Project" style="text-decoration: none; color: #007BFF;">My Personal Project</a>
+    <a href="https://github.com/VidalMiquel/Final-Thesis-Project" style="text-decoration: none; color: #007BFF;">Final Thesis Project</a>
 </h3>
 <p style="text-align: justify; color: #666;">
     This work explores the hypothesis of whether complex networks are a suitable tool for defining the behavior of a football team. To this end, we have defined an approach based on the passes made before a goal, considering each goal scored as a score difference to analyze. This process is based on an initial phase of data collection, processing, and filtering, followed by a second phase of statistical and topological analysis.
