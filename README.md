@@ -26,7 +26,7 @@
 
 <h2>📊 GitHub Statistics</h2>
 <div class="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true" alt="Miquel Vidal's GitHub stats">
 </div>
 
 <h2>📈 Programming Languages</h2>
