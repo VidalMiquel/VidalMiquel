@@ -3,60 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .icon {
+            width: 30px; /* Ajusta el tamaño según sea necesario */
+            height: 30px; /* Asegúrate de que la altura sea la misma que el ancho */
+            margin: 10px;
+            vertical-align: middle; /* Alinea verticalmente los íconos */
+        }
+        .center {
+            text-align: center; /* Centra el contenido */
+        }
+    </style>
 </head>
-<body style="font-family: Arial, sans-serif; margin: 20px;">
+<body>
+  
+<h1>Hello, I'm Miquel Vidal 👋</h1>
 
-<h1 style="font-size: 2em; color: #333;">Hello, I'm Miquel Vidal 👋</h1>
-
-<h2 style="font-size: 1.5em; color: #555;">👩‍💻 About Me</h2>
-<p style="text-align: justify; color: #666;">
-    I am a dedicated backend developer specializing in application management and development. With a strong passion for learning new technologies, I am committed to continuously enhancing my skills. I believe in the power of collaboration and knowledge sharing, so let's connect and exchange insights!
+<h2>👩‍💻 About Me</h2>
+<p align="justify">
+  I am a dedicated backend developer specializing in application management and development. With a strong passion for learning new technologies, I am committed to continuously enhancing my skills. I believe in the power of collaboration and knowledge sharing, so let's connect and exchange insights!
 </p>
 
-<h2 style="font-size: 1.5em; color: #555;">📊 GitHub Statistics</h2>
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true" alt="Miquel Vidal's GitHub stats" style="border-radius: 8px;">
+<h2>📊 GitHub Statistics</h2>
+<div class="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true" alt="Miquel Vidal's GitHub stats">
 </div>
 
-<h2 style="font-size: 1.5em; color: #555;">📈 Programming Languages</h2>
-<div style="text-align: center;">
-    <a href="https://github.com/VidalMiquel/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=donut&theme=vue" alt="Top Languages" style="border-radius: 8px;">
-    </a>
+<h2>📈 Programming Languages</h2>
+<div class="center">
+  <a href="https://github.com/VidalMiquel/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=donut&theme=vue" alt="Top Languages">
+  </a>
 </div>
 
-<h2 style="font-size: 1.5em; color: #555;">🛠️ Tools and Technologies</h2>
-<div style="display: flex; justify-content: center; align: center;">
-    <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/353924/java.svg" alt="Java" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="SpringBoot" style="width: 30px; height: 30px; margin: 10px;">
+<h2>🛠️ Tools and Technologies</h2>
+<div class="center">
+    <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" class="icon">
+    <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" class="icon">
+    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" class="icon">
+    <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" class="icon">
+    <img src="https://www.svgrepo.com/show/353924/java.svg" alt="Java" class="icon">
+    <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="SpringBoot" class="icon">
 </div>
 
-<h2 style="font-size: 1.5em; color: #555;">🌱 Featured Projects</h2>
-<h3 style="color: #333;">
-    <a href="https://github.com/VidalMiquel/Final-Thesis-Project" style="text-decoration: none; color: #007BFF;">My Personal Project</a>
-</h3>
-<p style="text-align: justify; color: #666;">
-    This work explores the hypothesis of whether complex networks are a suitable tool for defining the behavior of a football team. To this end, we have defined an approach based on the passes made before a goal, considering each goal scored as a score difference to analyze. This process is based on an initial phase of data collection, processing, and filtering, followed by a second phase of statistical and topological analysis.
+<h2>🌱 Featured Projects</h2>
+<h3><a href="https://github.com/VidalMiquel/Final-Thesis-Project">My Personal Project</a></h3>
+<p align="justify">
+  This work explores the hypothesis of whether complex networks are a suitable tool for defining the behavior of a football team. To this end, we have defined an approach based on the passes made before a goal, considering each goal scored as a score difference to analyze. This process is based on an initial phase of data collection, processing, and filtering, followed by a second phase of statistical and topological analysis.
 </p>
 
-<h2 style="font-size: 1.5em; color: #555;">📫 Contact Me</h2>
-<div style="display: flex; justify-content: center; align: center;">
-    <a href="mailto:miquelvidalcortes@gmail.com">
-        <img src="https://www.svgrepo.com/show/485253/email-opened.svg" style="width: 30px; height: 30px; margin: 10px;" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/mvc4/">
-        <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" style="width: 30px; height: 30px; margin: 10px;" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/VidalMiquel/VidalMiquel/blob/main/cvMiquelVidal.pdf">
-        <img src="https://www.svgrepo.com/show/228753/curriculum-information.svg" style="width: 30px; height: 30px; margin: 10px;" alt="CV">
-    </a>
-    <a href="https://miquelvidal.netlify.app/">
-        <img src="https://www.svgrepo.com/show/494486/website-program.svg" style="width: 30px; height: 30px; margin: 10px;" alt="Website">
-    </a>
+<h2>📫 Contact Me</h2>
+<div class="center">
+  <a href="mailto:miquelvidalcortes@gmail.com">
+    <img src="https://www.svgrepo.com/show/485253/email-opened.svg" class="icon" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mvc4/">
+    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" class="icon" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/VidalMiquel/VidalMiquel/blob/main/cvMiquelVidal.pdf">
+    <img src="https://www.svgrepo.com/show/228753/curriculum-information.svg" class="icon" alt="CV">
+  </a>
+  <a href="https://miquelvidal.netlify.app/">
+    <img src="https://www.svgrepo.com/show/494486/website-program.svg" class="icon" alt="Website">
+  </a>
 </div>
 
 </body>
