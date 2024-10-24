@@ -26,13 +26,13 @@
 </div>
 
 <h2 style="font-size: 1.5em; color: #555;">🛠️ Tools and Technologies</h2>
-<div style="text-align: center;">
-    <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" style="width: 30px; height: 30px; margin: 10px; vertical-align: middle;">
-    <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" style="width: 30px; height: 30px; margin: 10px; vertical-align: middle;">
-    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" style="width: 30px; height: 30px; margin: 10px; vertical-align: middle;">
-    <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" style="width: 30px; height: 30px; margin: 10px; vertical-align: middle;">
-    <img src="https://www.svgrepo.com/show/353924/java.svg" alt="Java" style="width: 30px; height: 30px; margin: 10px; vertical-align: middle;">
-    <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="SpringBoot" style="width: 30px; height: 30px; margin: 10px; vertical-align: middle;">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" style="width: 30px; height: 30px; margin: 10px;">
+    <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" style="width: 30px; height: 30px; margin: 10px;">
+    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" style="width: 30px; height: 30px; margin: 10px;">
+    <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" style="width: 30px; height: 30px; margin: 10px;">
+    <img src="https://www.svgrepo.com/show/353924/java.svg" alt="Java" style="width: 30px; height: 30px; margin: 10px;">
+    <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="SpringBoot" style="width: 30px; height: 30px; margin: 10px;">
 </div>
 
 <h2 style="font-size: 1.5em; color: #555;">🌱 Featured Projects</h2>
@@ -44,7 +44,7 @@
 </p>
 
 <h2 style="font-size: 1.5em; color: #555;">📫 Contact Me</h2>
-<div style="align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <a href="mailto:miquelvidalcortes@gmail.com">
         <img src="https://www.svgrepo.com/show/485253/email-opened.svg" style="width: 30px; height: 30px; margin: 10px;" alt="Email">
     </a>
