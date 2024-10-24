@@ -6,8 +6,12 @@
     <style>
         .icon {
             width: 30px; /* Ajusta el tamaño según sea necesario */
-            height: 50px;
+            height: 30px; /* Asegúrate de que la altura sea la misma que el ancho */
             margin: 10px;
+            vertical-align: middle; /* Alinea verticalmente los íconos */
+        }
+        .center {
+            text-align: center; /* Centra el contenido */
         }
     </style>
 </head>
@@ -21,19 +25,19 @@
 </p>
 
 <h2>📊 GitHub Statistics</h2>
-<div align="center">
+<div class="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true" alt="Anurag's GitHub stats">
 </div>
 
 <h2>📈 Programming Languages</h2>
-<div align="center">
+<div class="center">
   <a href="https://github.com/VidalMiquel/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=donut&theme=vue" alt="Top Languages">
   </a>
 </div>
 
 <h2>🛠️ Tools and Technologies</h2>
-<div align="center">
+<div class="center">
     <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" class="icon">
     <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" class="icon">
     <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" class="icon">
@@ -49,18 +53,18 @@
 </p>
 
 <h2>📫 Contact Me</h2>
-<div align="center">
+<div class="center">
   <a href="mailto:miquelvidalcortes@gmail.com">
-    <img src="https://www.svgrepo.com/show/485253/email-opened.svg" class="icon" alt="Email" style="margin: 0 10px;">
+    <img src="https://www.svgrepo.com/show/485253/email-opened.svg" class="icon" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/mvc4/">
-    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" class="icon" alt="LinkedIn" style="margin: 0 10px;">
+    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" class="icon" alt="LinkedIn">
   </a>
   <a href="https://github.com/VidalMiquel/VidalMiquel/blob/main/cvMiquelVidal.pdf">
-    <img src="https://www.svgrepo.com/show/228753/curriculum-information.svg" class="icon" alt="CV" style="margin: 0 10px;">
+    <img src="https://www.svgrepo.com/show/228753/curriculum-information.svg" class="icon" alt="CV">
   </a>
   <a href="https://miquelvidal.netlify.app/">
-    <img src="https://www.svgrepo.com/show/494486/website-program.svg" class="icon" alt="Website" style="margin: 0 10px;">
+    <img src="https://www.svgrepo.com/show/494486/website-program.svg" class="icon" alt="Website">
   </a>
 </div>
 
