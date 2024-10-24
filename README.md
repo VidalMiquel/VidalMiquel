@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .icon {
+            width: 30px; /* Ajusta el tamaño según sea necesario */
+            height: 50px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+  
 <h1>Hello, I'm Miquel Vidal 👋</h1>
 
 <h2>👩‍💻 About Me</h2>
@@ -19,27 +34,12 @@
 
 <h2>🛠️ Tools and Technologies</h2>
 <div align="center">
-  <a style="margin: 0 10px;">
-    <i class="fab fa-python" style="font-size: 24px;" title="Python"></i>
-  </a>
-  <a style="margin: 0 10px;">
-    <i class="fab fa-java" style="font-size: 24px;" title="Java"></i>
-  </a>
-  <a style="margin: 0 10px;">
-    <i class="fas fa-database" style="font-size: 24px;" title="SQL"></i>
-  </a>
-  <a style="margin: 0 10px;">
-    <i class="fab fa-html5" style="font-size: 24px;" title="HTML"></i>
-  </a>
-  <a style="margin: 0 10px;">
-    <i class="fab fa-js" style="font-size: 24px;" title="JavaScript"></i>
-  </a>
-  <a style="margin: 0 10px;">
-    <i class="fab fa-angular" style="font-size: 24px;" title="Angular"></i>
-  </a>
-  <a style="margin: 0 10px;">
-    <i class="fab fa-git" style="font-size: 24px;" title="Git"></i>
-  </a>
+    <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" class="icon">
+    <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" class="icon">
+    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" class="icon">
+    <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" class="icon">
+    <img src="https://www.svgrepo.com/show/353924/java.svg" alt="Java" class="icon">
+    <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="SpringBoot" class="icon">
 </div>
 
 <h2>🌱 Featured Projects</h2>
@@ -48,19 +48,21 @@
   This work explores the hypothesis of whether complex networks are a suitable tool for defining the behavior of a football team. To this end, we have defined an approach based on the passes made before a goal, considering each goal scored as a score difference to analyze. This process is based on an initial phase of data collection, processing, and filtering, followed by a second phase of statistical and topological analysis.
 </p>
 
-
 <h2>📫 Contact Me</h2>
 <div align="center">
   <a href="mailto:miquelvidalcortes@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/mail.png" alt="Email" style="margin: 0 10px;">
+    <img src="https://www.svgrepo.com/show/485253/email-opened.svg" class="icon" alt="Email" style="margin: 0 10px;">
   </a>
   <a href="https://www.linkedin.com/in/mvc4/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="margin: 0 10px;">
+    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" class="icon" alt="LinkedIn" style="margin: 0 10px;">
   </a>
   <a href="https://github.com/VidalMiquel/VidalMiquel/blob/main/cvMiquelVidal.pdf">
-    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="CV" style="margin: 0 10px;">
+    <img src="https://www.svgrepo.com/show/228753/curriculum-information.svg" class="icon" alt="CV" style="margin: 0 10px;">
   </a>
-    <a href="https://miquelvidal.netlify.app/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/web.png" alt="CV" style="margin: 0 10px;">
+  <a href="https://miquelvidal.netlify.app/">
+    <img src="https://www.svgrepo.com/show/494486/website-program.svg" class="icon" alt="Website" style="margin: 0 10px;">
   </a>
 </div>
+
+</body>
+</html>
