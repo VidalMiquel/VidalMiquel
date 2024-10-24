@@ -26,7 +26,7 @@
 </div>
 
 <h2 style="font-size: 1.5em; color: #555;">🛠️ Tools and Technologies</h2>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align: center;">
     <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" style="width: 30px; height: 30px; margin: 10px;">
     <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" style="width: 30px; height: 30px; margin: 10px;">
     <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" style="width: 30px; height: 30px; margin: 10px;">
@@ -44,7 +44,7 @@
 </p>
 
 <h2 style="font-size: 1.5em; color: #555;">📫 Contact Me</h2>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align: center;">
     <a href="mailto:miquelvidalcortes@gmail.com">
         <img src="https://www.svgrepo.com/show/485253/email-opened.svg" style="width: 30px; height: 30px; margin: 10px;" alt="Email">
     </a>
