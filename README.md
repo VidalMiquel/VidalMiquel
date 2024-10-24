@@ -14,13 +14,13 @@
 </p>
 
 <h2 style="font-size: 1.5em; color: #555;">📊 GitHub Statistics</h2>
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true" alt="Miquel Vidal's GitHub stats" style="border-radius: 8px;">
-</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
+  </div>
 
 <h2 style="font-size: 1.5em; color: #555;">📈 Programming Languages</h2>
-<div style="text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&hide_progress=true&theme=vue" alt="Top Languages" style="border-radius: 8px;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VidalMiquel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <h2 style="font-size: 1.5em; color: #555;">🌱 Featured Projects</h2>
@@ -67,3 +67,5 @@
 
 </body>
 </html>
+
+
