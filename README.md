@@ -6,16 +6,16 @@
 </p>
 
 <h2>📊 GitHub Statistics</h2>
-<p style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VidalMiquel&theme=vue&show_icons=true" alt="Anurag's GitHub stats">
-</p>
+</div>
 
 <h2>📈 Programming Languages</h2>
-<p style="text-align: center;">
+<div align="center">
   <a href="https://github.com/VidalMiquel/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidalMiquel&layout=donut&theme=vue" alt="Top Languages">
   </a>
-</p>
+</div>
 
 <h2>🛠️ Tools and Technologies</h2>
 <ul>
