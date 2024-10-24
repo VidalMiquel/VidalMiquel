@@ -44,7 +44,7 @@
 </p>
 
 <h2 style="font-size: 1.5em; color: #555;">📫 Contact Me</h2>
-<div style="text-align: center;">
+<div style="align: center;">
     <a href="mailto:miquelvidalcortes@gmail.com">
         <img src="https://www.svgrepo.com/show/485253/email-opened.svg" style="width: 30px; height: 30px; margin: 10px;" alt="Email">
     </a>
