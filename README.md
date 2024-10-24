@@ -40,17 +40,22 @@
 
 
 <h2 style="font-size: 1.5em; color: #555;">🛠️ Tools and Technologies</h2>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/353924/java.svg" alt="Java" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="SpringBoot" style="width: 30px; height: 30px; margin: 10px;">
-    <img src="https://www.svgrepo.com/show/374093/sql.svg" alt="SpringBoot" style="width: 30px; height: 30px; margin: 10px;">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 <h2 style="font-size: 1.5em; color: #555;">📫 Contact Me</h2>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
     <a href="mailto:miquelvidalcortes@gmail.com">
         <img src="https://www.svgrepo.com/show/485253/email-opened.svg" style="width: 30px; height: 30px; margin: 10px;" alt="Email">
     </a>
@@ -67,5 +72,4 @@
 
 </body>
 </html>
-
 
